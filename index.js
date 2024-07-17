@@ -8,7 +8,7 @@ const client = new Client({
     ]
 });
 
-client.login('');
+client.login('MTA5OTY0NDI1MzE3ODY5MTU5Nw.GWz1Xi.78pwdOcrc-zXmlFStbi-So2C49xKIiOmSbM_Zk');
 
 client.once('ready', () => {
     console.log('Bot ONLINE');
